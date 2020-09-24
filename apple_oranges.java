@@ -8,7 +8,6 @@ import java.util.regex.*;
 
 public class Solution {
 
-    // Complete the countApplesAndOranges function below.
     static void countApplesAndOranges(int s, int t, int a, int b, int[] apples, int[] oranges) 
     {
         int[] dist_apples = new int[apples.length];
